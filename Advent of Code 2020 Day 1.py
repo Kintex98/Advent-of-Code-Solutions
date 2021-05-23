@@ -202,8 +202,8 @@ reports = '''1130
 219
 1851
 1955'''
-reports=reports.split()
-reports= [int(report) for report in reports]
+reports = reports.split()
+reports = [int(report) for report in reports]
 #Converts the string given by reports.split into integrs
 
 target_sum = 2020
