@@ -1,5 +1,4 @@
 import itertools
-import csv
 # Allows for the itertools commands which combines non-repeated couples
 
 passwords_and_policies = '''13-16 k: kkkkkgmkbvkkrskhd
